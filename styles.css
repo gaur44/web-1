@@ -1,0 +1,47 @@
+body {
+    margin: 0;
+}
+
+.navbar {
+    position: fixed;
+    background-color: #ffffff;
+    width: 100%;
+    height:40px;
+    border-bottom-style: solid;
+    border-bottom-width: 2px;
+    border-bottom-color: hsl(0, 0%, 25%);
+    opacity: 80%;
+}
+
+.content {
+    margin: 40px;
+}
+
+.navbar > a {
+    color: hsl(0, 0%, 25%);
+    font-family: sans;
+    font-weight: 700;
+    text-decoration: none;
+    padding: 10px;
+    display: inline-block;
+}
+.background_container {
+    background-image: url('file:///home/matrix/college/pexels-jahoo-388415.jpg');
+    min-height: 400px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.background_container > img {
+    opacity: 75%;
+}
+
+.content > img {
+    padding: 30px;
+    float: left;
+}
+
+p {
+    display: inline;
+}
