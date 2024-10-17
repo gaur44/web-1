@@ -26,7 +26,7 @@ body {
     display: inline-block;
 }
 .background_container {
-    background-image: url('file:///home/matrix/college/pexels-jahoo-388415.jpg');
+    background-image: url('file:///home/matrix/college/assets/pexels-jahoo-388415.jpg');
     min-height: 400px;
     background-position: center;
     background-repeat: no-repeat;
